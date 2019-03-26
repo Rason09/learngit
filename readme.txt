@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Branch Manager
 Working on dev branch.
+Add coding : utf-8
